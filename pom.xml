@@ -4,10 +4,11 @@
 
     <parent>
         <groupId>org.codegas</groupId>
-        <artifactId>codegas-pom</artifactId>
-        <version>1.0.1-SNAPSHOT</version>
+        <artifactId>codegas-pom-bom</artifactId>
+        <version>1.0.2</version>
     </parent>
 
     <artifactId>codegas-bom</artifactId>
+    <version>1.0.1-SNAPSHOT</version>
 
 </project>
