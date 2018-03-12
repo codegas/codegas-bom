@@ -12,4 +12,11 @@
     <version>1.0.1-SNAPSHOT</version>
     <name>${project.groupId}:${project.artifactId}</name>
 
+    <scm>
+        <connection>scm:git:git://github.com/codegas/codegas-bom.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/codegas/codegas-bom.git</developerConnection>
+        <url>http://github.com/codegas/codegas-bom/tree/master</url>
+        <tag>HEAD</tag>
+    </scm>
+
 </project>
